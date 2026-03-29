@@ -1,3 +1,5 @@
+## Official Implementation of ["Content-Style Learning from Unaligned Domains: Identifiability under Unknown Latent Dimensions"](https://arxiv.org/abs/2411.03755), ICLR 2025
+
 ## Setup
 
 The code is based on [StyleGAN2-ADA](https://github.com/NVlabs/stylegan2-ada-pytorch). Please refer to [StyleGAN2-ADA repo](https://github.com/NVlabs/stylegan2-ada-pytorch) for the environment setup. 
